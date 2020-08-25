@@ -1,0 +1,499 @@
+rank,name,year
+1,Google Inc.,2016
+2,Acuity Insurance,2016
+3,"The Boston Consulting Group, Inc.",2016
+4,"Wegmans Food Markets, Inc.",2016
+5,Quicken Loans,2016
+6,Baird,2016
+7,Kimley-Horn,2016
+8,SAS Institute Inc.,2016
+9,Camden Property Trust,2016
+10,Edward Jones,2016
+11,Genentech,2016
+12,"W. L. Gore & Associates, Inc.",2016
+13,"Nugget Market, Inc.",2016
+14,The Container Store,2016
+15,ULTIMATE SOFTWARE,2016
+16,Burns & McDonnell,2016
+17,David Weekley Homes,2016
+18,CHG Healthcare,2016
+19,NuStar Energy,2016
+20,Kimpton Hotels & Restaurants,2016
+21,Stryker,2016
+22,Hilcorp,2016
+23,Salesforce,2016
+24,"ARI, Automotive Resources International",2016
+25,Baptist Health South Florida,2016
+26,"Recreational Equipment, Inc. (REI)",2016
+27,Credit Acceptance Corporation,2016
+29,Southern Ohio Medical Center,2016
+30,Veterans United Home Loans,2016
+31,Workday,2016
+32,Baker Donelson,2016
+33,Plante Moran,2016
+34,Intuit Inc.,2016
+35,St. Jude Children's Research Hospital,2016
+36,USAA,2016
+37,Perkins Coie LLP,2016
+38,"World Wide Technology, LLC",2016
+39,Riot Games,2016
+41,Alston & Bird LLP,2016
+42,SCRIPPS HEALTH,2016
+43,KPMG LLP,2016
+44,Navy Federal Credit Union,2016
+45,Build-A-Bear Workshop,2016
+46,Texas Health Resources,2016
+47,Hyatt Hotels Corporation,2016
+48,Hyland,2016
+49,Ernst & Young LLP,2016
+50,Aflac Incorporated,2016
+51,"The Goldman Sachs Group, Inc.",2016
+52,Cadence,2016
+53,PricewaterhouseCoopers LLP,2016
+54,"Autodesk, Inc.",2016
+55,Novo Nordisk Inc.,2016
+56,Hilton,2016
+57,Protiviti,2016
+58,Custom Ink,2016
+59,Power Home Remodeling,2016
+60,PCL Construction,2016
+61,O.C. Tanner,2016
+62,"Arthrex, Inc",2016
+63,IKEA Holding U.S. Inc.,2016
+64,American Fidelity Assurance Company,2016
+65,TDIndustries,2016
+66,"JM Family Enterprises, Inc.",2016
+67,Publix Super Markets Inc.,2016
+68,OhioHealth,2016
+69,Encompass Health - Homecare and Hospice,2016
+70,Four Seasons Hotels & Resorts,2016
+71,Nationwide,2016
+72,"Regeneron Pharmaceuticals, Inc.",2016
+73,Roche Diagnostics,2016
+74,"TEKsystems, Inc.",2016
+75,Whole Foods Market,2016
+76,QuikTrip,2016
+77,Activision Blizzard,2016
+78,Children's Healthcare of Atlanta,2016
+79,Atlantic Health System,2016
+80,Allianz Life Insurance Company of North America,2016
+81,Arnold & Porter Kaye Scholer LLP,2016
+82,Cisco,2016
+83,"Marriott International, Inc.",2016
+84,Accenture,2016
+85,CarMax,2016
+86,Mayo Clinic,2016
+87,Adobe,2016
+88,Capital One Financial Corporation,2016
+89,FactSet Research Systems Inc.,2016
+90,Deloitte,2016
+91,Orrick,2016
+92,"Nordstrom, Inc.",2016
+93,WellStar Health System,2016
+94,First American Financial Corporation,2016
+95,GoDaddy,2016
+96,American Express,2016
+97,"Sheetz, Inc.",2016
+98,The Cheesecake Factory Incorporated,2016
+99,"Mars, Incorporated",2016
+100,"Slalom, LLC.",2016
+1,Google Inc.,2017
+2,"Wegmans Food Markets, Inc.",2017
+3,"The Boston Consulting Group, Inc.",2017
+4,Baird,2017
+5,Edward Jones,2017
+6,Genentech,2017
+7,ULTIMATE SOFTWARE,2017
+8,Salesforce,2017
+9,Acuity Insurance,2017
+10,Quicken Loans,2017
+11,Kimley-Horn,2017
+12,KPMG LLP,2017
+13,Intuit Inc.,2017
+14,Kimpton Hotels & Restaurants,2017
+15,SAS Institute Inc.,2017
+16,Burns & McDonnell,2017
+17,Capital One Financial Corporation,2017
+18,Workday,2017
+19,Stryker,2017
+20,CHG Healthcare,2017
+21,Publix Super Markets Inc.,2017
+22,Camden Property Trust,2017
+23,PricewaterhouseCoopers LLP,2017
+24,David Weekley Homes,2017
+25,Cooley LLP,2017
+26,Hilton,2017
+27,Veterans United Home Loans,2017
+28,"Recreational Equipment, Inc. (REI)",2017
+29,Ernst & Young LLP,2017
+30,"Nugget Market, Inc.",2017
+31,Texas Health Resources,2017
+32,Hyatt Hotels Corporation,2017
+33,"Marriott International, Inc.",2017
+34,Pinnacle Financial Partners,2017
+35,USAA,2017
+36,St. Jude Children's Research Hospital,2017
+37,NuStar Energy,2017
+38,"ARI, Automotive Resources International",2017
+39,NVIDIA,2017
+40,"World Wide Technology, LLC",2017
+41,Hilcorp,2017
+42,"VMware, Inc.",2017
+43,Credit Acceptance Corporation,2017
+44,TDIndustries,2017
+45,SCRIPPS HEALTH,2017
+46,Atlantic Health System,2017
+47,Navy Federal Credit Union,2017
+48,The Cheesecake Factory Incorporated,2017
+49,The Container Store,2017
+50,"Mars, Incorporated",2017
+51,Plante Moran,2017
+52,"W. L. Gore & Associates, Inc.",2017
+53,Perkins Coie LLP,2017
+54,Nationwide,2017
+55,"JM Family Enterprises, Inc.",2017
+56,Children's Healthcare of Atlanta,2017
+57,Encompass Health - Homecare and Hospice,2017
+58,Whole Foods Market,2017
+59,SAP SE,2017
+60,Adobe,2017
+61,Southern Ohio Medical Center,2017
+62,"The Goldman Sachs Group, Inc.",2017
+63,"Delta Air Lines, Inc.",2017
+64,Deloitte,2017
+65,Alston & Bird LLP,2017
+66,Activision Blizzard,2017
+67,Cisco,2017
+68,QuikTrip,2017
+69,American Express,2017
+70,Roche Diagnostics,2017
+71,"Autodesk, Inc.",2017
+72,IKEA Holding U.S. Inc.,2017
+73,Novo Nordisk Inc.,2017
+74,Rackspace,2017
+75,Hyland,2017
+76,Build-A-Bear Workshop,2017
+77,CarMax,2017
+78,"Slalom, LLC.",2017
+79,Four Seasons Hotels & Resorts,2017
+80,Protiviti,2017
+81,Cadence,2017
+82,First American Financial Corporation,2017
+83,"TEKsystems, Inc.",2017
+84,Mayo Clinic,2017
+85,"Regeneron Pharmaceuticals, Inc.",2017
+86,OhioHealth,2017
+87,"Sheetz, Inc.",2017
+88,Accenture,2017
+89,American Fidelity Assurance Company,2017
+90,Bright Horizons Family Solutions,2017
+91,Aflac Incorporated,2017
+92,Methodist Le Bonheur Healthcare,2017
+93,AT&T,2017
+94,"Nordstrom, Inc.",2017
+95,Baker Donelson,2017
+96,Orrick,2017
+97,Baptist Health South Florida,2017
+98,PCL Construction,2017
+99,FedEx Corporation,2017
+100,Allianz Life Insurance Company of North America,2017
+1,Salesforce,2018
+2,"Wegmans Food Markets, Inc.",2018
+3,ULTIMATE SOFTWARE,2018
+4,"The Boston Consulting Group, Inc.",2018
+5,Edward Jones,2018
+6,Kimpton Hotels & Restaurants,2018
+7,Workday,2018
+8,Genentech,2018
+9,Hyatt Hotels Corporation,2018
+10,Kimley-Horn,2018
+11,Deloitte,2018
+12,Baird,2018
+13,Intuit Inc.,2018
+14,Quicken Loans,2018
+15,Texas Health Resources,2018
+16,Stryker,2018
+17,Capital One Financial Corporation,2018
+18,Cooley LLP,2018
+19,USAA,2018
+20,Plante Moran,2018
+21,Southern Ohio Medical Center,2018
+22,Pinnacle Financial Partners,2018
+23,American Express,2018
+24,Camden Property Trust,2018
+25,Baptist Health South Florida,2018
+26,Adobe,2018
+27,The Cheesecake Factory Incorporated,2018
+28,SAP SE,2018
+29,KPMG LLP,2018
+30,NVIDIA,2018
+31,Orrick,2018
+32,Veterans United Home Loans,2018
+33,Hilton,2018
+34,CarMax,2018
+35,"Marriott International, Inc.",2018
+36,David Weekley Homes,2018
+37,SAS Institute Inc.,2018
+38,Cadence,2018
+39,"VMware, Inc.",2018
+40,Allianz Life Insurance Company of North America,2018
+41,SCRIPPS HEALTH,2018
+42,Navy Federal Credit Union,2018
+43,"Recreational Equipment, Inc. (REI)",2018
+44,Synchrony,2018
+45,"World Wide Technology, LLC",2018
+46,Protiviti,2018
+47,Publix Super Markets Inc.,2018
+48,Cisco,2018
+49,"Regeneron Pharmaceuticals, Inc.",2018
+50,Burns & McDonnell,2018
+51,"JM Family Enterprises, Inc.",2018
+52,Ernst & Young LLP,2018
+53,Nationwide,2018
+54,"Slalom, LLC.",2018
+55,Build-A-Bear Workshop,2018
+56,PricewaterhouseCoopers LLP,2018
+57,St. Jude Children's Research Hospital,2018
+58,Perkins Coie LLP,2018
+59,American Fidelity Assurance Company,2018
+60,Accenture,2018
+61,Credit Acceptance Corporation,2018
+62,Crowe,2018
+63,First American Financial Corporation,2018
+64,Dropbox,2018
+65,"BayCare Health System, Inc.",2018
+66,"Sheetz, Inc.",2018
+67,Hilcorp,2018
+68,Comcast NBCUniversal,2018
+69,CHG Healthcare,2018
+70,"Nugget Market, Inc.",2018
+71,Ryan LLC,2018
+72,NuStar Energy,2018
+73,TDIndustries,2018
+74,Atlantic Health System,2018
+75,Hyland,2018
+76,Encompass Health - Homecare and Hospice,2018
+77,Children's Healthcare of Atlanta,2018
+78,Progressive Insurance,2018
+79,Alston & Bird LLP,2018
+80,"Autodesk, Inc.",2018
+81,Kronos Incorporated,2018
+82,Alliance Data,2018
+83,"Mars, Incorporated",2018
+84,Activision Blizzard,2018
+85,Aflac Incorporated,2018
+86,"T-Mobile US, Inc.",2018
+87,Power Home Remodeling,2018
+88,"Nordstrom, Inc.",2018
+89,"The Goldman Sachs Group, Inc.",2018
+90,OhioHealth,2018
+91,Methodist Le Bonheur Healthcare,2018
+92,Devon Energy,2018
+93,The Container Store,2018
+94,FedEx Corporation,2018
+95,Novo Nordisk Inc.,2018
+96,Baker Donelson,2018
+97,AbbVie,2018
+98,"Delta Air Lines, Inc.",2018
+99,Four Seasons Hotels & Resorts,2018
+100,AT&T,2018
+1,Hilton,2019
+2,Salesforce,2019
+3,"Wegmans Food Markets, Inc.",2019
+4,Workday,2019
+5,Kimpton Hotels & Restaurants,2019
+6,Cisco,2019
+7,Edward Jones,2019
+8,ULTIMATE SOFTWARE,2019
+9,Texas Health Resources,2019
+10,"The Boston Consulting Group, Inc.",2019
+11,Stryker,2019
+12,Publix Super Markets Inc.,2019
+13,American Express,2019
+14,Quicken Loans,2019
+15,Orrick,2019
+16,Baird,2019
+17,"JM Family Enterprises, Inc.",2019
+18,Kimley-Horn,2019
+19,Camden Property Trust,2019
+20,Cooley LLP,2019
+21,Plante Moran,2019
+22,Adobe,2019
+23,Veterans United Home Loans,2019
+24,Intuit Inc.,2019
+25,The Cheesecake Factory Incorporated,2019
+26,Deloitte,2019
+27,Pinnacle Financial Partners,2019
+28,SAP SE,2019
+29,Navy Federal Credit Union,2019
+30,USAA,2019
+31,"Marriott International, Inc.",2019
+32,Hyatt Hotels Corporation,2019
+33,CarMax,2019
+34,Ernst & Young LLP,2019
+35,Southern Ohio Medical Center,2019
+36,KPMG LLP,2019
+37,"BayCare Health System, Inc.",2019
+38,NVIDIA,2019
+39,Capital One Financial Corporation,2019
+40,Baptist Health South Florida,2019
+41,David Weekley Homes,2019
+42,Dropbox,2019
+43,Allianz Life Insurance Company of North America,2019
+44,PricewaterhouseCoopers LLP,2019
+45,Genentech,2019
+46,"Recreational Equipment, Inc. (REI)",2019
+47,Protiviti,2019
+48,"Slalom, LLC.",2019
+49,"T-Mobile US, Inc.",2019
+50,Red Hat,2019
+51,Synchrony,2019
+52,Ryan LLC,2019
+53,Alston & Bird LLP,2019
+54,Encompass Health - Homecare and Hospice,2019
+55,American Fidelity Assurance Company,2019
+56,"World Wide Technology, LLC",2019
+57,Nationwide,2019
+58,St. Jude Children's Research Hospital,2019
+59,Credit Acceptance Corporation,2019
+60,SAS Institute Inc.,2019
+61,Accenture,2019
+62,"The Goldman Sachs Group, Inc.",2019
+63,AbbVie,2019
+64,HubSpot,2019
+65,Oliver Wyman,2019
+66,Bright Horizons Family Solutions,2019
+67,CHG Healthcare,2019
+68,Crowe,2019
+69,Zillow,2019
+70,Atlassian,2019
+71,Comcast NBCUniversal,2019
+72,Hyland,2019
+73,Cadence,2019
+74,Perkins Coie LLP,2019
+75,"Regeneron Pharmaceuticals, Inc.",2019
+76,Progressive Insurance,2019
+77,Power Home Remodeling,2019
+78,Kronos Incorporated,2019
+79,Children's Healthcare of Atlanta,2019
+80,Workiva Inc.,2019
+81,"Nugget Market, Inc.",2019
+82,Burns & McDonnell,2019
+83,First American Financial Corporation,2019
+84,Total Quality Logistics,2019
+85,"Sheetz, Inc.",2019
+86,Custom Ink,2019
+87,Atlantic Health System,2019
+88,Methodist Le Bonheur Healthcare,2019
+89,Four Seasons Hotels & Resorts,2019
+90,Novo Nordisk Inc.,2019
+91,Farmers Insurance,2019
+92,Bank of America,2019
+93,"Box, Inc.",2019
+94,Alliance Data,2019
+95,FedEx Corporation,2019
+96,Activision Blizzard,2019
+97,"Delta Air Lines, Inc.",2019
+98,"Mars, Incorporated",2019
+99,OhioHealth,2019
+100,Patagonia,2019
+1,Hilton,2020
+2,ULTIMATE SOFTWARE,2020
+3,"Wegmans Food Markets, Inc.",2020
+4,Cisco,2020
+5,Workday,2020
+6,Salesforce,2020
+7,Edward Jones,2020
+8,Stryker,2020
+9,American Express,2020
+10,Kimpton Hotels & Restaurants,2020
+11,Intuit Inc.,2020
+12,The Cheesecake Factory Incorporated,2020
+13,Baird,2020
+14,Pinnacle Financial Partners,2020
+15,Texas Health Resources,2020
+16,Kimley-Horn,2020
+17,Veterans United Home Loans,2020
+18,Camden Property Trust,2020
+19,Navy Federal Credit Union,2020
+20,CarMax,2020
+21,Plante Moran,2020
+22,Southern Ohio Medical Center,2020
+23,David Weekley Homes,2020
+24,Capital One Financial Corporation,2020
+25,Ernst & Young LLP,2020
+26,"JM Family Enterprises, Inc.",2020
+27,NVIDIA,2020
+28,Hyatt Hotels Corporation,2020
+29,Quicken Loans,2020
+30,HubSpot,2020
+31,"Slalom, LLC.",2020
+32,KPMG LLP,2020
+33,Allianz Life Insurance Company of North America,2020
+34,Protiviti,2020
+35,Adobe,2020
+36,PricewaterhouseCoopers LLP,2020
+37,"BayCare Health System, Inc.",2020
+38,"Marriott International, Inc.",2020
+39,Publix Super Markets Inc.,2020
+40,Perkins Coie LLP,2020
+41,Accenture,2020
+42,"T-Mobile US, Inc.",2020
+43,SCRIPPS HEALTH,2020
+44,Synchrony,2020
+45,Deloitte,2020
+46,West Monroe Partners,2020
+47,Orrick,2020
+48,Red Hat,2020
+49,Progressive Insurance,2020
+50,Power Home Remodeling,2020
+51,"Pluralsight, Inc.",2020
+52,Kronos Incorporated,2020
+53,American Fidelity Assurance Company,2020
+54,Baptist Health South Florida,2020
+55,USAA,2020
+56,Alston & Bird LLP,2020
+57,Cooley LLP,2020
+58,Workiva Inc.,2020
+59,SAP America,2020
+60,"Recreational Equipment, Inc. (REI)",2020
+61,SAS Institute Inc.,2020
+62,CoverMyMeds,2020
+63,Dropbox,2020
+64,Comcast NBCUniversal,2020
+65,Burns & McDonnell,2020
+66,Ryan LLC,2020
+67,"Regeneron Pharmaceuticals, Inc.",2020
+68,Credit Acceptance Corporation,2020
+69,Bain & Company,2020
+70,Hilcorp,2020
+71,"Box, Inc.",2020
+72,Genentech,2020
+73,CHG Healthcare,2020
+74,Novo Nordisk Inc.,2020
+75,Bright Horizons Family Solutions,2020
+76,First American Financial Corporation,2020
+77,Bank of America,2020
+78,Total Quality Logistics,2020
+79,"Nugget Market, Inc.",2020
+80,"Sheetz, Inc.",2020
+81,Crowe,2020
+82,Cadence,2020
+83,"W. L. Gore & Associates, Inc.",2020
+84,Nutanix,2020
+85,Atlassian,2020
+86,NuStar Energy,2020
+87,AbbVie,2020
+88,Encompass Health - Homecare and Hospice,2020
+89,Atlantic Health System,2020
+90,Experian,2020
+91,Nationwide,2020
+92,Custom Ink,2020
+93,Northwell Health,2020
+94,"The Goldman Sachs Group, Inc.",2020
+95,Kettering Health Network,2020
+96,"World Wide Technology, LLC",2020
+97,Farmers Insurance,2020
+98,"Mars, Incorporated",2020
+99,"Delta Air Lines, Inc.",2020
+100,Four Seasons Hotels & Resorts,2020
